@@ -14,6 +14,7 @@ https://www.kaggle.com/sachinpatel21/az-handwritten-alphabets-in-csv-format
 
 Input: 
 ![alt text](Sample Input Files/A.png)
+
 Output: 
 ![alt text](Output Files/OutputForA.png)
 

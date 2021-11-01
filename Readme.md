@@ -12,29 +12,32 @@ https://www.kaggle.com/sachinpatel21/az-handwritten-alphabets-in-csv-format
 
 ### Test Case 1 : A
 
-Input: 
+#### Input: 
+
 ![alt text](https://github.com/garvitchaudhary9/HandwrittenCharacterRecognition/blob/master/Sample%20Input%20Files/A.png)
 
-Output: 
-![alt text](Output Files/OutputForA.png)
+#### Output: 
+
+![alt text](https://github.com/garvitchaudhary9/HandwrittenCharacterRecognition/blob/master/Output%20Files/OutputForA.png)
 
 ### Test Case 1 : G
 
-Input: 
-![alt text](Sample Input Files/G.png)
-Output: 
-![alt text](Output Files/OutputForG.png)
+#### Input: 
+
+![alt text](https://github.com/garvitchaudhary9/HandwrittenCharacterRecognition/blob/master/Sample%20Input%20Files/G.png)
+#### Output: 
+![alt text](https://github.com/garvitchaudhary9/HandwrittenCharacterRecognition/blob/master/Output%20Files/OutputForG.png)
 
 ### Test Case 1 : P
 
-Input: 
-![alt text](Sample Input Files/P.png)
-Output: 
-![alt text](Output Files/OutputForP.png)
+#### Input: 
+![alt text](https://github.com/garvitchaudhary9/HandwrittenCharacterRecognition/blob/master/Sample%20Input%20Files/P.png)
+#### Output: 
+![alt text](https://github.com/garvitchaudhary9/HandwrittenCharacterRecognition/blob/master/Output%20Files/OutputForP.png)
 
 ### Test Case 1 : S
 
-Input: 
-![alt text](Sample Input Files/S.png)
-Output: 
-![alt text](Output Files/OutputForS.png)
+#### Input: 
+![alt text](https://github.com/garvitchaudhary9/HandwrittenCharacterRecognition/blob/master/Sample%20Input%20Files/S.png)
+#### Output: 
+![alt text](https://github.com/garvitchaudhary9/HandwrittenCharacterRecognition/blob/master/Output%20Files/OutputForS.png)

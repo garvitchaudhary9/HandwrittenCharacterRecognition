@@ -13,7 +13,7 @@ https://www.kaggle.com/sachinpatel21/az-handwritten-alphabets-in-csv-format
 ### Test Case 1 : A
 
 Input: 
-![alt text](Sample Input Files/A.png)
+![alt text](https://github.com/garvitchaudhary9/HandwrittenCharacterRecognition/blob/master/Sample%20Input%20Files/A.png)
 
 Output: 
 ![alt text](Output Files/OutputForA.png)
